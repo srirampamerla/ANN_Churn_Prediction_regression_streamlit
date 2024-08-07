@@ -1,1 +1,1 @@
-ANN_Churn prediction and deployed in streamlit web app.
+ANN_Churn _estimated salary prediction and deployed in streamlit web app.
